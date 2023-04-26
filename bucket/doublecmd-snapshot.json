@@ -12,7 +12,6 @@
             "url": "https://doublecmd.sourceforge.io/snapshots/doublecmd-1.1.0.r10701.i386-win32.7zi"
         }
     },
-    "extract_dir": "Double Commander",
     "bin": "doublecmd.exe",
     "shortcuts": [
         [
